@@ -1,9 +1,14 @@
 /* Putting up colors */
+
 html {
   scroll-behavior: smooth;
 }
 
-body a {
+body {
+  color: #161616;
+} 
+
+a {
   color: #161616;
 }
 
@@ -11,6 +16,10 @@ body a {
   display: none;
 }
 
-.card-category .section-tagline {
+.card-category {
+  color: #D73953;
+}
+
+.section-tagline {
   color: #D73953;
 }
