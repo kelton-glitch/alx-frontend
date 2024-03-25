@@ -14,7 +14,7 @@ html {
 }
 
 body a {
-  color: var(--color-black)
+  color: var(--color-black);
 }
 
 .visually-hidden {
@@ -22,5 +22,5 @@ body a {
 }
 
 .card-category .section-tagline {
-  color: var(--color-primary)
+  color: var(--color-primary);
 }
