@@ -1,4 +1,8 @@
-body {
+htm l {
+  scroll-behavior: smooth;
+}
+
+body a {
   color: #161616;
 }
 
