@@ -226,6 +226,16 @@
     line-height: var(--line-height-base);
   }
   
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-family-title);
+    font-weight: var(--font-weight-bold);
+  }
+  
   a:link {
     color: var(--text-color);
     text-decoration: none;
@@ -241,16 +251,6 @@
   
   a:active {
     color: var(--color-light-grey);
-  }
-  
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    font-family: var(--font-family-title);
-    font-weight: var(--font-weight-bold);
   }
   
   .visually-hidden {
