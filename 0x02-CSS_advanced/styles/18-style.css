@@ -309,9 +309,6 @@
   
   .section-header {
     text-align: var(--section-header-align);
-    font-family: var(--font-family-title);
-    text-transform: var(--section-tagline-transform);
-    font-weight: var(--font-weight-bold);
     padding: var(--section-header-padding);
   }
   
@@ -334,6 +331,9 @@
   
   .section-tagline {
     color: var(--color-primary);
+    font-family: var(--font-family-title);
+    text-transform: var(--section-tagline-transform);
+    font-weight: var(--font-weight-bold);
   }
   
   .container {
